@@ -2,8 +2,9 @@
 
 What you looking for -_-
 
-My main programming language is Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" style="vertical-align:middle; margin:0 2px;">,
-but I also work with Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" style="vertical-align:middle; margin:0 2px;"> and other languages when needed.
+My main programming language is Python, but I also work with Java and other languages when needed.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" style="vertical-align:middle; margin:0 2px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" style="vertical-align:middle; margin:0 2px;" alt="Java Logo">
 
 ## Cool Projects:
 [RandomStudenticker](<https://github.com/Alex-2504834/RandomStudentPicker>)
