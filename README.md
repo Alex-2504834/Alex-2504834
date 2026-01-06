@@ -1,6 +1,6 @@
 ## Hi There
 
-What you looking for -_-
+A Student a Middlesbrough College doing a T Level in Digital Software Development (Level 3)
 
 My main programming language is Python, but I also work with Java and other languages when needed.
 
