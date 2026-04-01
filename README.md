@@ -18,3 +18,7 @@ If you’re curious about my VS Code setup, theme, extensions, and overall vibe,
 [Vscode Profile](<https://github.com/Alex-2504834/VScode-Profile>)
 
 Most of my code includes **type annotations** to keep things clear, predictable, and maintainable.
+
+### Migration:
+Due to Github becoming an AI first platform, I am moving my projects to Codeberg
+[New Codeberg Account Link](<https://codeberg.org/Alex-2504834>)
