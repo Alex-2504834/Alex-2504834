@@ -21,4 +21,5 @@ Most of my code includes **type annotations** to keep things clear, predictable,
 
 ### Migration:
 Due to Github becoming an AI first platform, I am moving my projects to Codeberg
+
 [New Codeberg Account Link](<https://codeberg.org/Alex-2504834>)
